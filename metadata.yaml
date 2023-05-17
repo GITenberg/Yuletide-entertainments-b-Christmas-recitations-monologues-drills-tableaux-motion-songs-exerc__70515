@@ -1,0 +1,36 @@
+_repo: Yuletide-entertainments-b-Christmas-recitations-monologues-drills-tableaux-motion-songs-exerc__70515
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Willard, Ellen M. (Ellen Melville)
+    alias: Willard, E. M. (Ellen Melville)
+    birthdate: 1853
+    gutenberg_agent_id: '55783'
+    url: http://www.gutenberg.org/2009/agents/55783
+description: ''
+gutenberg_issued: '2023-04-09'
+identifiers:
+  gutenberg: '70515'
+  lccn: '10024719'
+language: en
+pgterms:marc904: https://archive.org/details/yuletideentertai00will/page/n5/mode/2up
+pgterms:marc905: 20211110050527willard
+pgterms:marc906: '1910'
+pgterms:marc907: US
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited States :$bT. S. Denison & Co., $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Recitations'
+- !lcsh 'Amusements'
+- !lcsh 'Dialogues'
+- !lcsh 'Amateur plays'
+- !lcc 'PN'
+- GITenberg
+title: 'Yuletide entertainments : $b Christmas recitations, monologues, drills, tableaux,
+  motion songs, exercises, dialogues and plays'
+url: http://www.gutenberg.org/ebooks/70515
