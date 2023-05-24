@@ -1,5 +1,8 @@
 _repo: Yuletide-entertainments-b-Christmas-recitations-monologues-drills-tableaux-motion-songs-exerc__70515
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70515-h/images/cover.jpg
 creator:
   author:
     agent_name: Willard, Ellen M. (Ellen Melville)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '55783'
     url: http://www.gutenberg.org/2009/agents/55783
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70515#Yuletide-entertainments-b-Christmas-recitations-monologues-drills-tableaux-motion-songs-exerc_
 gutenberg_issued: '2023-04-09'
 identifiers:
   gutenberg: '70515'
